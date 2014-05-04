@@ -130,12 +130,12 @@
     <string name="lockscreen_custom_widgets_title">Custom widgets</string>
 
     <!-- Navigation Bar Height -->
-    <string name="navbar_settings_title">Navigation bar</string>
-    <string name="navigation_bar_height">Height</string>
+    <string name="navbar_settings_title">Navigationsleiste</string>
+    <string name="navigation_bar_height">Höhe</string>
     <string name="navigation_bar_height_54">54dp</string>
     <string name="navigation_bar_height_52">52dp</string>
     <string name="navigation_bar_height_50">50dp</string>
-    <string name="navigation_bar_height_48">48dp (default)</string>
+    <string name="navigation_bar_height_48">48dp (Standard)</string>
     <string name="navigation_bar_height_44">44dp</string>
     <string name="navigation_bar_height_40">40dp</string>
     <string name="navigation_bar_height_36">36dp</string>
@@ -144,12 +144,12 @@
     <string name="navigation_bar_height_26">26dp</string>
     <string name="navigation_bar_height_24">24dp</string>
     <string name="navigation_bar_height_20">20dp</string>
-    <string name="navigation_bar_height_0">0dp (hide)</string>
+    <string name="navigation_bar_height_0">0dp (verstecken)</string>
 
     <!-- Navbar edit -->
     <string name="navigation_bar_title">Buttons and layout</string>
-    <string name="navigation_bar_left_title">Left handed mode</string>
-    <string name="navigation_bar_left_summary">Place the navigation bar on the left side of the screen in landscape mode</string>
+    <string name="navigation_bar_left_title">Linkshänder Modus</string>
+    <string name="navigation_bar_left_summary">Legen die Navigationsleiste auf der linken Seite des Bildschirms im Querformat</string>
     <string name="navigation_bar_help_text">1 - To begin editing, tap the lock icon\n\n2 - Tap any button to assign or change functionality\n\n3 - Long press any button to rearrange the order\n\n4 - To save, tap the lock icon again\n\n5 - To restore system default, tap the reset button\n\n</string>
     <string name="navigation_bar_tips">\u2022 Actions can only be assigned to one button at a time\n\n\u2022 The home button cannot be re-assigned\n\n\u2022 Side buttons cannot be rearranged</string>
     <string name="navigation_bar_tips_title">Quick tips</string>
@@ -160,7 +160,7 @@
     <string name="navigation_bar_menu_locked">Locked</string>
 
     <!-- Navigation bar glow time -->
-    <string name="navigation_button_glow_time_title">Glow time</string>
+    <string name="navigation_button_glow_time_title">Leucht Dauer</string>
 
     <!-- Quick settings panel  -->
     <string name="quick_settings_panel_title">Quick Settings</string>
