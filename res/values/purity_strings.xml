@@ -441,8 +441,8 @@
     <string name="summary_qs_hide_text">Will allow for more icons per row</string>
 
     <!-- Volume Keys Media Control -->
-    <string name="volume_keys_control_media_stream">Media control</string>
-    <string name="volume_keys_control_media_stream_summary">Volume keys control media volume rather than notifications</string>
+    <string name="volume_keys_control_media_stream">Media Steuerung</string>
+    <string name="volume_keys_control_media_stream_summary">Lautstärketasten steuern Mediavolumen anstatt Benachrichtigungs Lautstärke</string>
 
     <!-- Message of dialog confirming that user wants to restart their device with a new runtime -->
     <string name="custom_runtime_warning_title">Warning</string>
