@@ -459,20 +459,20 @@
     <!-- Status bar double-tap to sleep -->
     <string name="status_bar_double_tap_to_sleep_title">Double-tap to sleep</string>
 
-    <string name="increasing_ring_title">Ascending ringtone</string>
+    <string name="increasing_ring_title">Ansteigender Klingelton</string>
     <!-- Sound settings screen, the caption of the checkbox for making incoming calls increase in volume -->
-    <string name="checkbox_increasing_ring">Enable</string>
+    <string name="checkbox_increasing_ring">Einschalten</string>
     <!-- Sound settings screen, the title of the volume bar to adjust the minimum increasing ring volume -->
-    <string name="increasing_ring_min_volume_title">Ringing start volume</string>
-    <string name="increasing_ring_volume_notice">Notice:\nAs the start volume is set higher than the ringer volume, the ring tone will be played using the ringer volume.</string>
-    <string name="increasing_ring_interval_title">Increase interval</string>
-    <string name="increasing_ring_interval_eachring">On each ring</string>
-    <string name="increasing_ring_interval_half_second">0.5 seconds</string>
-    <string name="increasing_ring_interval_1second">1 second</string>
-    <string name="increasing_ring_interval_2seconds">2 seconds</string>
-    <string name="increasing_ring_interval_3seconds">3 seconds</string>
-    <string name="increasing_ring_interval_5seconds">5 seconds</string>
-    <string name="increasing_ring_interval_10seconds">10 seconds</string>
+    <string name="increasing_ring_min_volume_title">Klingelton start Lautstärke</string>
+    <string name="increasing_ring_volume_notice">Hinweis:\Da die Anfangslautstärke größer als die Klingeltonlautstärke ist, wird der Klingelton mit der Klingeltonlautstärke abgespielt</string>
+    <string name="increasing_ring_interval_title">Intervall ändern</string>
+    <string name="increasing_ring_interval_eachring">Bei jedem Klingelton</string>
+    <string name="increasing_ring_interval_half_second">0.5 Sekunden</string>
+    <string name="increasing_ring_interval_1second">1 Sekunden</string>
+    <string name="increasing_ring_interval_2seconds">2 Sekunden</string>
+    <string name="increasing_ring_interval_3seconds">3 Sekunden</string>
+    <string name="increasing_ring_interval_5seconds">5 Sekunden</string>
+    <string name="increasing_ring_interval_10seconds">10 Sekunden</string>
 
     <!-- Enable power menu -->
     <string name="lockscreen_enable_power_menu_title">Enable power menu</string>
@@ -536,11 +536,11 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="auto_brightness_sensitivity_veryhigh">Very high</string>
 
     <!-- Lockscreen background -->
-    <string name="lockscreen_background">Background</string>
-    <string name="lockscreen_background_style_title">Lock screen background</string>
-    <string name="background_default">Default background</string>
-    <string name="background_wallpaper">Custom wallpaper</string>
-    <string name="background_result_successful">Background changed</string>
-    <string name="background_result_not_successful">Background not changed</string>
-    <string name="setting_lockscreen_background">Applying background</string>
+    <string name="lockscreen_background">Hintergrund</string>
+    <string name="lockscreen_background_style_title">Hintergrund Bildschirmsperre</string>
+    <string name="background_default">Standard Hintergrund</string>
+    <string name="background_wallpaper">Benutzerdefinierter Hintergrund</string>
+    <string name="background_result_successful">Hintergrund wurde geändert</string>
+    <string name="background_result_not_successful">Hintergrund wurde nicht geändert</string>
+    <string name="setting_lockscreen_background">Hintergrund anwenden</string>
 </resources>
