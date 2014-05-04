@@ -325,8 +325,8 @@
     <string name="battery_light_full_color_title">Fully charged</string>
 
     <!-- kill app long press back -->
-    <string name="kill_app_longpress_back">Kill app back button</string>
-    <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back key</string>
+    <string name="kill_app_longpress_back">Zurück-Taste beendet App</string>
+    <string name="kill_app_longpress_back_summary">Beendet die App im Vordergrund durch langes betätigen der Zurück-Taste</string>
 
     <!-- Category title for Charging sounds (Power state change) specific Settings.
          [CHAR LIMIT=40] -->
